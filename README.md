@@ -1,2 +1,2 @@
 # Pickling
-Test of Pickling
+Test
